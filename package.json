@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ilyachenko/cicd-sandbox/issues"
   },
-  "homepage": "https://github.com/ilyachenko/cicd-sandbox#readme"
+  "homepage": "https://github.com/ilyachenko/cicd-sandbox#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
